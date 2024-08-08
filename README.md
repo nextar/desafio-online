@@ -4,7 +4,7 @@
 
 > Nível dificuldade: 2
 
-Dado que exista uma matriz M x N de inteiros, checar se os números de cada item da matriz se repetem em todos os itens.
+Dado que exista uma matriz M x N de inteiros (vetor de vetor), checar se os números de cada vetor se repetem em todos os itens.
 
 | Teste   | Matriz                      | Retorno esperado | 
 |---------|-----------------------------|------------------|
