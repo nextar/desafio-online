@@ -13,6 +13,7 @@ Dado que exista uma matriz M x N de inteiros, checar se os números de cada item
 |       3 | [[3,2,1], [5,3,2]]          | false            |
 |       4 | [[3,22,5], [22,5]]          | false            |
 
+
 ## Desafio 2
 
 > Nível dificuldade: 2
@@ -24,6 +25,7 @@ Dado que exista um matriz de n elementos, remova os itens duplicados e informa a
 |     1 | [1,2,4,2,5] |                3 |
 |     2 | [1,2,4,3,5] |                5 |
 |     3 | [1,1,1,1,5] |                1 |
+
 
 ## Desafio 3
 
@@ -37,10 +39,12 @@ Ordene a matriz de forma diferente. O itens em posições pares deve ser ordenad
 |     2 | [4,4,7,5]     | [4,5,7,4]        |         
 |     3 | [5,6,3,1,7,3] | [3,6,5,3,7,1]    |             
 
+
 ## Desafio 4
+
 > Nível dificuldade 2
 
-Implementar um algoritmo onde ele possa detectar palimdromos (palavras que tem o mesmo som de traz para frente): Ex: radar, renner, arara, reviver
+Implementar um algoritmo onde ele possa detectar palíndromos (palavras que tem o mesmo som de traz para frente): Ex: radar, renner, arara, reviver
 
 | Teste | Palavra | Retorno esperado | 
 |-------|---------|------------------|
